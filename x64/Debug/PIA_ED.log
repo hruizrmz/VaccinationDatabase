@@ -1,0 +1,15 @@
+﻿  PIA_ED.cpp
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(1306,21): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(1490,21): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(1569,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(1642,21): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(1676,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(1752,21): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(1841,25): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(1879,25): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(2101,25): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(2322,25): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(2462,25): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(2482,29): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Helena\Documents\GitHub\VaccinationDatabase\PIA_ED.cpp(2484,30): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+  PIA_ED.vcxproj -> C:\Users\Helena\Documents\GitHub\VaccinationDatabase\x64\Debug\PIA_ED.exe
